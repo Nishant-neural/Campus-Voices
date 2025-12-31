@@ -39,3 +39,46 @@ Overall, the solution bridges the gap between student concerns and institutional
 
 <img width="427" height="615" alt="image" src="https://github.com/user-attachments/assets/567a56fd-22fa-4712-8ede-6df556917551" />
 
+## 🚀 Planned Improvements (Round 2)
+
+### 🔐 Authentication & User Management
+- College Email ID / Roll Number based login
+- OTP-based user verification
+- Session / JWT-based authentication
+- Role-based access (Students & Authorities)
+
+### 🗳️ Issue Voting & Prioritization
+- Students can upvote campus-related issues
+- Real-time vote count display
+- Automatic issue prioritization based on votes
+- High-priority issues highlighted for faster action
+
+### 🗂️ Categorized Issue Management
+- Issues organized under predefined categories:
+  - Hostel
+  - Mess
+  - Academics
+  - Infrastructure
+  - Safety
+- Category-wise filtering and sorting
+
+### 🛠️ Admin / Authority Dashboard
+- Dedicated dashboard for college authorities
+- View issues by category and priority
+- Update issue status (Pending / In Progress / Resolved)
+- Add official responses or remarks
+
+### 🎨 UI/UX Enhancements
+- Cleaner and more intuitive interface
+- Fully responsive design
+- Better form validation and user feedback
+
+### 🔒 Security & Data Integrity
+- Input validation and spam prevention
+- Secure handling of user data
+- Protected routes and access control
+
+### 🔮 Future Scope
+- Anonymous issue reporting
+- Notification system (Email / In-App)
+- Multi-college support
