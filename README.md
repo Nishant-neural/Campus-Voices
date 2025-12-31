@@ -1,4 +1,4 @@
-# campus-Voices
+# Campus-Voices
 
 **#The problem:-**
 
